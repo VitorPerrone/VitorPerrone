@@ -19,3 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=VitorPerrone&icon=3&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com.br/vitorperrone/vitorperrone/blob/output/github-contribution-grid.snake.svg
