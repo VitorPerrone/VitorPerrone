@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 Atualmente estudo Desenvolvimento de Sistemas, no Senai Suiço. <br>👯 Procuro colaborar em projetos Front-End<br>🌱 Estou estudando React Native e Node.JS<br>⚡ Tenho 17 anos e amo codar!
 
-Contate-me! 
-vitorperrone2005@gmail.com
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/perronelol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-perrone/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/perronelol) 
