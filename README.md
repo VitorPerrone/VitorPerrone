@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente estudo Desenvolvimento de Sistemas, no Senai Suiço. <br>👯 Procuro colaborar em projetos Front-End<br>🌱 Estou estudando React Native e Node.JS<br>⚡ Tenho 17 anos e amo codar!
+🔭 Formado em Desenvolvimento de Sistemas, no Senai Suíço-Brasileira Paulo Ernesto Tolle. <br>👯 Procuro colaborar em projetos Front-End<br>🌱 Estou estudando React, React Native e Node.JS<br>⚡ Tenho 18 anos e adoro tecnologia!
 
 
 ## 🌐 Socials:
